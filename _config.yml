@@ -1,1 +1,6 @@
 theme: jekyll-theme-minimal
+title: Jiyeon's All About Algorithm
+description: 나의 알고리즘 공부 로그
+
+logo: "/assets/logo.JPG"
+show_downloads: true
